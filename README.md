@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yazilimciadam
 - 👀 I’m interested in Fintechs & Payment Systems
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning NoSQL
 - 💞️ I’m looking to collaborate on Startups
 - 📫 How to reach me mehmet@tpayout.co
 
